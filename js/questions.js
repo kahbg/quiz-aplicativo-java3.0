@@ -3,37 +3,35 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "quem foi o pintor de a noite estrelada?",
+answer: "Van Gogh",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"michelangelo",
+"van gogh",
+"aghata crist",
+"romero brito"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "qual o nome da artista que pintou o Abapuru",
+answer: "tracila do amaral",
 options: [
-"Timor Lestet",
-"Montenegro",
-"Sudão do Sul",
-"Kosovo"
+"candino portinari",
+"vik muniz",
+"tarcila do amaral",
+"rossana paulino"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "quanto é 2+2?",
+answer: "4",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"1",
+"2",
+"3",
+"4"
 ]
 },
 {
@@ -51,14 +49,13 @@ options: [
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
+question: "de que fruta é feito o chocolate?",
+answer: "cacau",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"banana",
+"cacau",
+"lixia",
+"goiaba"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
